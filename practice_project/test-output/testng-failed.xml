@@ -9,7 +9,7 @@
     <classes>
       <class name="test_cases.Login_Test_2">
         <methods>
-          <include name="loginDDT"/>
+          <include name="loginDDT" invocation-numbers="1 2 4"/>
           <include name="teardown"/>
           <include name="setup"/>
         </methods>
