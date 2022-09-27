@@ -200,26 +200,3 @@
 2022-09-23 12:08:07,485 [main] INFO mystore - clicked on submit
 2022-09-23 12:08:12,172 [main] INFO mystore - signout
 2022-09-23 12:08:12,526 [main] INFO mystore - browser closed
-2022-09-27 20:32:55,961 [main] INFO mystore - url is opened
-2022-09-27 20:32:56,103 [main] INFO mystore - username provided
-2022-09-27 20:32:59,312 [main] INFO mystore - password provided
-2022-09-27 20:33:07,134 [main] INFO mystore - clicked on signin
-2022-09-27 20:33:10,190 [main] INFO mystore - Login passed
-2022-09-27 20:33:20,688 [main] INFO mystore - url is opened
-2022-09-27 20:33:20,810 [main] INFO mystore - username provided
-2022-09-27 20:33:24,053 [main] INFO mystore - password provided
-2022-09-27 20:33:28,751 [main] INFO mystore - clicked on signin
-2022-09-27 20:33:38,731 [main] INFO mystore - url is opened
-2022-09-27 20:33:38,898 [main] INFO mystore - username provided
-2022-09-27 20:33:42,106 [main] INFO mystore - password provided
-2022-09-27 20:33:46,875 [main] INFO mystore - clicked on signin
-2022-09-27 20:33:57,961 [main] INFO mystore - url is opened
-2022-09-27 20:33:58,091 [main] INFO mystore - username provided
-2022-09-27 20:34:01,327 [main] INFO mystore - password provided
-2022-09-27 20:34:10,364 [main] INFO mystore - clicked on signin
-2022-09-27 20:34:13,401 [main] INFO mystore - Login passed
-2022-09-27 20:34:22,295 [main] INFO mystore - url is opened
-2022-09-27 20:34:22,386 [main] INFO mystore - username provided
-2022-09-27 20:34:25,614 [main] INFO mystore - password provided
-2022-09-27 20:34:29,985 [main] INFO mystore - clicked on signin
-2022-09-27 20:34:38,670 [main] INFO mystore - browser closed
