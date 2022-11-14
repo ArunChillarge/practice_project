@@ -10,24 +10,24 @@ import org.openqa.selenium.support.PageFactory;
 public class Login_page {
 
 	
-		WebDriver ldriver;
-		public Login_page(WebDriver rdriver)
+		
+		public Login_page(WebDriver driver)
 		{
-			ldriver=rdriver;
-			PageFactory.initElements(rdriver,this);
+			
+			PageFactory.initElements(driver,this);
 		}
 
-		@FindBy(name = "uid")
+		@FindBy(xpath = "//input[@type='text']")
 		WebElement username;
 		@CacheLookup
 		
-		@FindBy(name="password")
+		@FindBy(xpath = "//input[@type='password']")
 		WebElement password;
 		
-		@FindBy(name="btnLogin")
+		@FindBy(xpath = "//input[@name=\"btnLogin\"]")
 		WebElement btnlogin;
 		
-		@FindBy(xpath = "/html/body/div[3]/div/ul/li[3]/a")
+		@FindBy(xpath = "//*[contains(text(),'Log out')]")
 		WebElement signout;
 		
 		

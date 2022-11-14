@@ -35,7 +35,7 @@ public class Login_Test_2 extends Base_class {
 		{
 			driver.switchTo().alert().accept();//close alert
 			driver.switchTo().defaultContent();
-			Assert.assertTrue(false);
+			Assert.assertFalse(false);
 			Logger.warn("Login failed");
 		}
 		else

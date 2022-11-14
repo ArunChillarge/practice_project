@@ -223,3 +223,246 @@
 2022-09-27 20:34:25,614 - mystore -INFO - password provided
 2022-09-27 20:34:29,985 - mystore -INFO - clicked on signin
 2022-09-27 20:34:38,670 - mystore -INFO - browser closed
+2022-10-08 13:00:43,801 - mystore -INFO - url is opened
+2022-10-08 13:00:43,968 - mystore -INFO - username provided
+2022-10-08 13:00:47,097 - mystore -INFO - password provided
+2022-10-08 13:00:54,683 - mystore -INFO - clicked on signin
+2022-10-08 13:00:57,750 - mystore -INFO - Login passed
+2022-10-08 13:01:09,131 - mystore -INFO - url is opened
+2022-10-08 13:01:09,257 - mystore -INFO - username provided
+2022-10-08 13:01:12,490 - mystore -INFO - password provided
+2022-10-08 13:01:23,261 - mystore -INFO - clicked on signin
+2022-10-08 13:01:40,752 - mystore -INFO - url is opened
+2022-10-08 13:01:40,876 - mystore -INFO - username provided
+2022-10-08 13:01:44,137 - mystore -INFO - password provided
+2022-10-08 13:01:48,741 - mystore -INFO - clicked on signin
+2022-10-08 13:01:59,094 - mystore -INFO - url is opened
+2022-10-08 13:01:59,220 - mystore -INFO - username provided
+2022-10-08 13:02:02,338 - mystore -INFO - password provided
+2022-10-08 13:02:15,076 - mystore -INFO - clicked on signin
+2022-10-08 13:02:18,097 - mystore -INFO - Login passed
+2022-10-08 13:02:31,723 - mystore -INFO - url is opened
+2022-10-08 13:02:31,841 - mystore -INFO - username provided
+2022-10-08 13:02:35,008 - mystore -INFO - password provided
+2022-10-08 13:02:40,408 - mystore -INFO - clicked on signin
+2022-10-08 13:02:47,719 - mystore -INFO - browser closed
+2022-10-14 14:18:05,080 - mystore -INFO - Url is opened
+2022-10-14 14:18:11,305 - mystore -INFO - entered username
+2022-10-14 14:18:14,427 - mystore -INFO - entered password
+2022-10-14 14:18:27,152 - mystore -INFO - clicked on submit
+2022-10-14 14:18:32,550 - mystore -INFO - signout
+2022-10-14 14:18:33,115 - mystore -INFO - browser closed
+2022-11-02 12:34:31,711 - mystore -INFO - Url is opened
+2022-11-02 12:34:37,965 - mystore -INFO - entered username
+2022-11-02 12:34:41,078 - mystore -INFO - entered password
+2022-11-02 12:34:47,198 - mystore -INFO - clicked on submit
+2022-11-02 12:34:51,891 - mystore -INFO - signout
+2022-11-02 12:34:53,216 - mystore -INFO - browser closed
+2022-11-02 12:41:47,235 - mystore -INFO - Url is opened
+2022-11-02 12:41:53,443 - mystore -INFO - entered username
+2022-11-02 12:41:56,560 - mystore -INFO - entered password
+2022-11-02 12:42:05,145 - mystore -INFO - clicked on submit
+2022-11-02 12:42:11,428 - mystore -INFO - signout
+2022-11-02 12:42:12,353 - mystore -INFO - browser closed
+2022-11-02 12:44:21,675 - mystore -INFO - Url is opened
+2022-11-02 12:44:28,046 - mystore -INFO - entered username
+2022-11-02 12:44:31,315 - mystore -INFO - entered password
+2022-11-02 12:44:37,524 - mystore -INFO - clicked on submit
+2022-11-02 12:44:41,757 - mystore -INFO - signout
+2022-11-02 12:44:42,639 - mystore -INFO - browser closed
+2022-11-02 12:46:46,690 - mystore -INFO - Url is opened
+2022-11-02 12:46:52,906 - mystore -INFO - entered username
+2022-11-02 12:46:56,020 - mystore -INFO - entered password
+2022-11-02 12:47:03,060 - mystore -INFO - clicked on submit
+2022-11-02 12:47:07,882 - mystore -INFO - signout
+2022-11-02 12:47:08,851 - mystore -INFO - browser closed
+2022-11-02 12:48:41,194 - mystore -INFO - Url is opened
+2022-11-02 12:48:47,416 - mystore -INFO - entered username
+2022-11-02 12:48:50,548 - mystore -INFO - entered password
+2022-11-02 12:48:59,273 - mystore -INFO - clicked on submit
+2022-11-02 12:49:04,032 - mystore -INFO - signout
+2022-11-02 12:49:04,523 - mystore -INFO - browser closed
+2022-11-02 12:54:07,424 - mystore -INFO - Url is opened
+2022-11-02 12:54:13,657 - mystore -INFO - entered username
+2022-11-02 12:54:16,798 - mystore -INFO - entered password
+2022-11-02 12:54:23,425 - mystore -INFO - clicked on submit
+2022-11-02 12:54:28,106 - mystore -INFO - signout
+2022-11-02 12:54:29,053 - mystore -INFO - browser closed
+2022-11-10 11:26:18,223 - mystore -INFO - Url is opened
+2022-11-10 11:26:24,671 - mystore -INFO - entered username
+2022-11-10 11:26:27,881 - mystore -INFO - browser closed
+2022-11-10 11:44:05,334 - mystore -INFO - Url is opened
+2022-11-10 11:45:27,634 - mystore -INFO - Url is opened
+2022-11-10 11:53:06,852 - mystore -INFO - Url is opened
+2022-11-10 11:59:30,050 - mystore -INFO - Url is opened
+2022-11-10 12:06:47,861 - mystore -INFO - Url is opened
+2022-11-10 16:01:43,241 - mystore -INFO - url is opened
+2022-11-10 16:01:43,321 - mystore -INFO - url is opened
+2022-11-10 16:01:43,329 - mystore -INFO - url is opened
+2022-11-10 16:01:43,335 - mystore -INFO - url is opened
+2022-11-10 16:01:43,340 - mystore -INFO - url is opened
+2022-11-10 16:06:47,434 - mystore -INFO - url is opened
+2022-11-10 16:06:47,528 - mystore -INFO - url is opened
+2022-11-10 16:06:47,533 - mystore -INFO - url is opened
+2022-11-10 16:06:47,542 - mystore -INFO - url is opened
+2022-11-10 16:06:47,549 - mystore -INFO - url is opened
+2022-11-10 16:11:49,314 - mystore -INFO - url is opened
+2022-11-10 16:11:49,408 - mystore -INFO - url is opened
+2022-11-10 16:11:49,413 - mystore -INFO - url is opened
+2022-11-10 16:11:49,419 - mystore -INFO - url is opened
+2022-11-10 16:11:49,425 - mystore -INFO - url is opened
+2022-11-10 16:12:57,785 - mystore -INFO - url is opened
+2022-11-10 16:12:57,869 - mystore -INFO - url is opened
+2022-11-10 16:12:57,879 - mystore -INFO - url is opened
+2022-11-10 16:12:57,886 - mystore -INFO - url is opened
+2022-11-10 16:12:57,891 - mystore -INFO - url is opened
+2022-11-10 16:18:25,142 - mystore -INFO - url is opened
+2022-11-10 16:18:25,221 - mystore -INFO - url is opened
+2022-11-10 16:18:25,226 - mystore -INFO - url is opened
+2022-11-10 16:18:25,232 - mystore -INFO - url is opened
+2022-11-10 16:18:25,237 - mystore -INFO - url is opened
+2022-11-10 16:28:24,383 - mystore -INFO - Url is opened
+2022-11-10 16:30:27,118 - mystore -INFO - Url is opened
+2022-11-10 16:34:52,004 - mystore -INFO - Url is opened
+2022-11-11 11:50:59,276 - mystore -INFO - Url is opened
+2022-11-11 11:59:54,367 - mystore -INFO - Url is opened
+2022-11-11 12:00:00,542 - mystore -INFO - entered username
+2022-11-11 12:00:03,688 - mystore -INFO - entered password
+2022-11-11 12:00:06,884 - mystore -INFO - clicked on submit
+2022-11-11 12:00:11,424 - mystore -INFO - browser closed
+2022-11-11 12:02:45,402 - mystore -INFO - url is opened
+2022-11-11 12:02:45,489 - mystore -INFO - username provided
+2022-11-11 12:02:48,637 - mystore -INFO - password provided
+2022-11-11 12:02:51,775 - mystore -INFO - clicked on signin
+2022-11-11 12:02:59,617 - mystore -INFO - Login passed
+2022-11-11 12:03:02,705 - mystore -INFO - url is opened
+2022-11-11 12:03:02,890 - mystore -INFO - username provided
+2022-11-11 12:03:06,186 - mystore -INFO - password provided
+2022-11-11 12:03:09,405 - mystore -INFO - clicked on signin
+2022-11-11 12:03:12,458 - mystore -INFO - Login passed
+2022-11-11 12:03:15,488 - mystore -INFO - url is opened
+2022-11-11 12:03:15,648 - mystore -INFO - username provided
+2022-11-11 12:03:18,900 - mystore -INFO - password provided
+2022-11-11 12:03:22,108 - mystore -INFO - clicked on signin
+2022-11-11 12:03:25,124 - mystore -INFO - Login passed
+2022-11-11 12:03:28,154 - mystore -INFO - url is opened
+2022-11-11 12:03:28,386 - mystore -INFO - username provided
+2022-11-11 12:03:31,510 - mystore -INFO - password provided
+2022-11-11 12:03:34,661 - mystore -INFO - clicked on signin
+2022-11-11 12:03:37,705 - mystore -INFO - Login passed
+2022-11-11 12:03:40,737 - mystore -INFO - url is opened
+2022-11-11 12:03:40,876 - mystore -INFO - username provided
+2022-11-11 12:03:44,088 - mystore -INFO - password provided
+2022-11-11 12:03:47,199 - mystore -INFO - clicked on signin
+2022-11-11 12:03:50,214 - mystore -INFO - Login passed
+2022-11-11 12:03:53,675 - mystore -INFO - browser closed
+2022-11-11 12:27:34,197 - mystore -INFO - url is opened
+2022-11-11 12:27:34,407 - mystore -INFO - username provided
+2022-11-11 12:27:37,524 - mystore -INFO - password provided
+2022-11-11 12:27:40,642 - mystore -INFO - url is opened
+2022-11-11 12:27:40,742 - mystore -INFO - username provided
+2022-11-11 12:27:43,941 - mystore -INFO - password provided
+2022-11-11 12:27:47,000 - mystore -INFO - url is opened
+2022-11-11 12:27:47,099 - mystore -INFO - username provided
+2022-11-11 12:27:50,300 - mystore -INFO - password provided
+2022-11-11 12:27:53,357 - mystore -INFO - url is opened
+2022-11-11 12:27:53,476 - mystore -INFO - username provided
+2022-11-11 12:27:56,627 - mystore -INFO - password provided
+2022-11-11 12:27:59,685 - mystore -INFO - url is opened
+2022-11-11 12:27:59,878 - mystore -INFO - username provided
+2022-11-11 12:28:03,122 - mystore -INFO - browser closed
+2022-11-11 12:29:51,363 - mystore -INFO - url is opened
+2022-11-11 12:29:51,590 - mystore -INFO - username provided
+2022-11-11 12:29:54,695 - mystore -INFO - password provided
+2022-11-11 12:30:01,746 - mystore -INFO - clicked on signin
+2022-11-11 12:30:04,856 - mystore -INFO - Login passed
+2022-11-11 12:30:07,976 - mystore -INFO - url is opened
+2022-11-11 12:30:08,021 - mystore -INFO - url is opened
+2022-11-11 12:30:08,057 - mystore -INFO - url is opened
+2022-11-11 12:30:08,088 - mystore -INFO - url is opened
+2022-11-11 12:30:09,432 - mystore -INFO - browser closed
+2022-11-11 12:32:44,705 - mystore -INFO - url is opened
+2022-11-11 12:32:44,950 - mystore -INFO - username provided
+2022-11-11 12:32:48,062 - mystore -INFO - password provided
+2022-11-11 12:32:55,027 - mystore -INFO - clicked on signin
+2022-11-11 12:32:58,108 - mystore -INFO - Login passed
+2022-11-11 12:33:01,218 - mystore -INFO - url is opened
+2022-11-11 12:33:01,272 - mystore -INFO - url is opened
+2022-11-11 12:33:01,296 - mystore -INFO - url is opened
+2022-11-11 12:33:01,329 - mystore -INFO - url is opened
+2022-11-11 12:33:01,802 - mystore -INFO - browser closed
+2022-11-11 12:35:09,300 - mystore -INFO - url is opened
+2022-11-11 12:35:09,478 - mystore -INFO - username provided
+2022-11-11 12:35:12,594 - mystore -INFO - password provided
+2022-11-11 12:35:19,392 - mystore -INFO - clicked on signin
+2022-11-11 12:35:22,522 - mystore -INFO - Login passed
+2022-11-11 12:35:34,022 - mystore -INFO - url is opened
+2022-11-11 12:35:34,139 - mystore -INFO - username provided
+2022-11-11 12:35:37,382 - mystore -INFO - password provided
+2022-11-11 12:35:42,522 - mystore -INFO - clicked on signin
+2022-11-11 12:36:11,943 - mystore -INFO - url is opened
+2022-11-11 12:36:12,060 - mystore -INFO - username provided
+2022-11-11 12:36:15,315 - mystore -INFO - password provided
+2022-11-11 12:36:19,924 - mystore -INFO - clicked on signin
+2022-11-11 12:36:26,892 - mystore -INFO - url is opened
+2022-11-11 12:36:27,024 - mystore -INFO - username provided
+2022-11-11 12:36:30,266 - mystore -INFO - password provided
+2022-11-11 12:36:37,792 - mystore -INFO - clicked on signin
+2022-11-11 12:36:40,814 - mystore -INFO - Login passed
+2022-11-11 12:36:49,480 - mystore -INFO - url is opened
+2022-11-11 12:36:49,606 - mystore -INFO - username provided
+2022-11-11 12:36:52,773 - mystore -INFO - password provided
+2022-11-11 12:36:57,426 - mystore -INFO - clicked on signin
+2022-11-11 12:37:05,046 - mystore -INFO - browser closed
+2022-11-11 12:40:29,357 - mystore -INFO - url is opened
+2022-11-11 12:40:29,822 - mystore -INFO - username provided
+2022-11-11 12:40:32,941 - mystore -INFO - password provided
+2022-11-11 12:40:41,303 - mystore -INFO - clicked on signin
+2022-11-11 12:40:44,387 - mystore -INFO - Login passed
+2022-11-11 12:40:58,900 - mystore -INFO - url is opened
+2022-11-11 12:40:59,011 - mystore -INFO - username provided
+2022-11-11 12:41:02,254 - mystore -INFO - password provided
+2022-11-11 12:41:07,199 - mystore -INFO - clicked on signin
+2022-11-11 12:41:14,095 - mystore -WARN - Login failed
+2022-11-11 12:41:14,099 - mystore -INFO - url is opened
+2022-11-11 12:41:14,275 - mystore -INFO - username provided
+2022-11-11 12:41:17,534 - mystore -INFO - password provided
+2022-11-11 12:41:23,051 - mystore -INFO - clicked on signin
+2022-11-11 12:41:28,822 - mystore -WARN - Login failed
+2022-11-11 12:41:28,825 - mystore -INFO - url is opened
+2022-11-11 12:41:28,935 - mystore -INFO - username provided
+2022-11-11 12:41:32,178 - mystore -INFO - password provided
+2022-11-11 12:41:38,371 - mystore -INFO - clicked on signin
+2022-11-11 12:41:41,394 - mystore -INFO - Login passed
+2022-11-11 12:41:49,865 - mystore -INFO - url is opened
+2022-11-11 12:41:50,031 - mystore -INFO - username provided
+2022-11-11 12:41:53,213 - mystore -INFO - password provided
+2022-11-11 12:41:57,611 - mystore -INFO - clicked on signin
+2022-11-11 12:42:05,262 - mystore -WARN - Login failed
+2022-11-11 12:42:05,649 - mystore -INFO - browser closed
+2022-11-12 20:06:36,218 - mystore -INFO - url is opened
+2022-11-12 20:06:36,762 - mystore -INFO - username provided
+2022-11-12 20:06:39,915 - mystore -INFO - password provided
+2022-11-12 20:06:47,287 - mystore -INFO - clicked on signin
+2022-11-12 20:06:50,332 - mystore -INFO - Login passed
+2022-11-12 20:07:00,638 - mystore -INFO - url is opened
+2022-11-12 20:07:00,807 - mystore -INFO - username provided
+2022-11-12 20:07:03,926 - mystore -INFO - password provided
+2022-11-12 20:07:08,723 - mystore -INFO - clicked on signin
+2022-11-12 20:07:15,683 - mystore -WARN - Login failed
+2022-11-12 20:07:15,687 - mystore -INFO - url is opened
+2022-11-12 20:07:15,900 - mystore -INFO - username provided
+2022-11-12 20:07:19,059 - mystore -INFO - password provided
+2022-11-12 20:07:23,685 - mystore -INFO - clicked on signin
+2022-11-12 20:07:29,981 - mystore -WARN - Login failed
+2022-11-12 20:07:29,985 - mystore -INFO - url is opened
+2022-11-12 20:07:30,936 - mystore -INFO - username provided
+2022-11-12 20:07:34,090 - mystore -INFO - password provided
+2022-11-12 20:07:40,576 - mystore -INFO - clicked on signin
+2022-11-12 20:07:43,586 - mystore -INFO - Login passed
+2022-11-12 20:07:50,490 - mystore -INFO - url is opened
+2022-11-12 20:07:51,174 - mystore -INFO - username provided
+2022-11-12 20:07:54,304 - mystore -INFO - password provided
+2022-11-12 20:07:58,476 - mystore -INFO - clicked on signin
+2022-11-12 20:08:11,314 - mystore -WARN - Login failed
+2022-11-12 20:08:11,968 - mystore -INFO - browser closed
