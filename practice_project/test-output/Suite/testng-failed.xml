@@ -5,15 +5,15 @@
     <listener class-name="utilities.Reporting"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="browser" value="chrome"/>
+    <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="test_cases.Login_Test_2">
+      <class name="test_cases.Login_Test">
         <methods>
-          <include name="loginDDT" invocation-numbers="1 2 4"/>
           <include name="teardown"/>
           <include name="setup"/>
+          <include name="logintest"/>
         </methods>
-      </class> <!-- test_cases.Login_Test_2 -->
+      </class> <!-- test_cases.Login_Test -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -27,9 +27,12 @@ public class Login_Test extends Base_class {
 		Thread.sleep(3000);
 		
 		
-		lp.Clicksignout();
+	/*	lp.Clicksignout();
 		Logger.info("signout");
-		}
+		*/
+		
+		
+	}
 	}
 		
 
